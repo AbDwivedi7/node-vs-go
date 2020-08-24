@@ -1,0 +1,19 @@
+{
+  "name": "node-vs-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbDwivedi7/node-vs-go.git"
+  },
+  "author": "Abhishek Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbDwivedi7/node-vs-go/issues"
+  },
+  "homepage": "https://github.com/AbDwivedi7/node-vs-go#readme"
+}
